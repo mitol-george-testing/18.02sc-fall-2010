@@ -1,0 +1,38 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Mathematics",
+      "Calculus"
+    ],
+    [
+      "Mathematics",
+      "Linear Algebra"
+    ],
+    [
+      "Mathematics",
+      "Differential Equations"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "78742779-553b-1abf-161d-125c1351b2fb"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Multivariable Calculus",
+  "course_description": "This course covers differential, integral and vector calculus for functions of more than one variable. These mathematical tools and methods are used extensively in the physical sciences, engineering, economics and computer graphics.\n##### Course Formats\n\n* * *\n\n[![Click to get started.](/images/button_start.png)](pages/Syllabus)The materials have been organized to support independent study. The website includes all of the materials you will need to understand the concepts covered in this subject. The materials in this course include:\n\n*   **Lecture Videos** recorded on the MIT campus\n*   **Recitation Videos** with problem-solving tips\n*   **Examples** of solutions to sample problems\n*   **Problem** for you to solve, with solutions\n*   **Exams** with solutions\n*   **Interactive Java Applets** (\"Mathlets\") to reinforce key concepts\n\n##### Content Development\n\n* * *\n\nDenis Auroux  \nArthur Mattuck  \nJeremy Orloff  \nJohn Lewis\n\nHeidi Burgiel  \nChristine Breiner  \nDavid Jordan  \nJoel Lewis",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.02SC",
+  "learning_resource_types": [
+    "Simulations",
+    "Exams with Solutions",
+    "Problem Sets with Solutions",
+    "Lecture Videos",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
